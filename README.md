@@ -8,7 +8,9 @@
 <h1 dir="rtl"> قابل توجه دانشجویان کلاس روز های دوشنبه </h1>
 
 
-<img src="https://raw.githubusercontent.com/YourUserAccount/YourProject/master/DirectoryPath/Example.png?sanitize=true&raw=true" />
+<div>
+<img src="https://raw.githubusercontent.com/YourUserAccount/YourProject/master/DirectoryPath/Example.png?sanitize=true&raw=true" width="500" height="500"/>
+  </div>
 
 <br/>
 
