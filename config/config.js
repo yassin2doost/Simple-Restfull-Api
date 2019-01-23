@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 
-mongoose.connect('mongodb://root:abc123@ds042417.mlab.com:42417/simple-restful-api',{ 
+mongoose.connect('mongodb://<userName>:<Password>@ds042417.mlab.com:42417/simple-restful-api',{ 
     useNewUrlParser: true ,
     useCreateIndex: true,
     
