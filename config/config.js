@@ -9,4 +9,3 @@ mongoose.connect('mlab Account',{
 mongoose.set('useFindAndModify', false);
 
 
-console.log('mongo conected')
