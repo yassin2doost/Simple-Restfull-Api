@@ -2,7 +2,7 @@
 Just a simple Restful api (CRUD) without considering securities issues 
 
 
-<b> قابل توجه دانشجویان کلاس روز های دوشنبه </b>
+<h1 dir="rtl"> قابل توجه دانشجویان کلاس روز های دوشنبه </h1>
 
 
 <img src="https://raw.githubusercontent.com/YourUserAccount/YourProject/master/DirectoryPath/Example.png?sanitize=true&raw=true" />
