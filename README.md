@@ -1,6 +1,6 @@
 # Simple-Restful-Api
 <ul>
-  <li>Just a simple Restful api (CRUD) without considering securities issues </li>
+  <li>Just a simple Restful api (CRUD) without considering security issues </li>
 
   <li><h3>Design Pattern:</h3> MVVM - Model-View-ViewModel</li>
 </ul>
